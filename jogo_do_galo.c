@@ -66,7 +66,7 @@ int acabou(char * tabela)
     if (tabela[1] == tabela[2] && tabela[2] == tabela[3])
         return 1;
         
-    else if (tabela[4] == tabela[4] && tabela[5] == tabela[6])
+    else if (tabela[4] == tabela[5] && tabela[5] == tabela[6])
         return 1;
         
     else if (tabela[7] == tabela[8] && tabela[8] == tabela[9])
